@@ -1,2 +1,2 @@
 # hello-world
-Short description
+File that says a brief description.
